@@ -12,4 +12,4 @@
 
 <img width="708" alt="Screen Shot 2022-03-28 at 12 38 49 PM" src="https://user-images.githubusercontent.com/19939597/160446140-d202eaaf-3613-4c24-a1d9-a2126620c26f.png">
 
-### Now you can detect and record any suspicious activity.
+### Now you can detect and record (and report) any suspicious activity.
